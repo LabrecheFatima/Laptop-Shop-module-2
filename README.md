@@ -61,7 +61,7 @@ src/
 ```bash
 git clone https://github.com/LabrecheFatima/Laptop-Shop-module-2.git
 
-cd laptop-Shop-module-2
+cd Laptop-Shop-module-2
 ```
 
 2. Install dependencies:
