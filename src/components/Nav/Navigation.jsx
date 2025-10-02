@@ -1,5 +1,6 @@
 import './Navigation.css';
 
+
 function Navigation(props) {
     return (
         <nav className="navbar">

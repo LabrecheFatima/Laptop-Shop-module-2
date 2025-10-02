@@ -58,3 +58,21 @@
     text-decoration: underline;
 }
 
+.timer-container {
+    margin: 20px 0;
+    padding: 20px;
+}
+
+.timer-container p {
+    font-size: 21px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    color: #f5f5f7;
+}
+
+.timer-container span {
+    font-size: 30px;
+    font-weight: 600;
+    color: #0066cc;
+    letter-spacing: 3px;
+}

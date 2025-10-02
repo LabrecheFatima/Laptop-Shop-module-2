@@ -1,7 +1,16 @@
-# Laptop Store Website
+# Laptop Store Website- module 2
 
-A modern, responsive laptop e-commerce website built with React. This project showcases a clean and interactive user interface for browsing and purchasing premium laptops.
+A modern, responsive laptop e-commerce website built with React. 
 
+
+## Features
+
+- 🖥️ Product catalog with laptop details
+- 🛒 Shopping cart functionality
+- 💰 Price display with monthly payment options
+- 📱 Responsive design
+- 🔢 Cart item counter
+- 💵 Total price calculation
 
 ## Tech Stack
 
@@ -25,7 +34,16 @@ src/
 │   │   └── Carts.css
 │   └── Footer/
 │   │   └── Footer.jsx
-│   │   └── Footer.jsx
+│   │   └── Footer.css
+│   └── Carts/
+│   │   └── Carts.jsx
+│   │   └── Carts.css
+│   └── Discount/
+│   │   └── Discount.jsx
+│   │   └── Discount.css
+│   └── CartIcon/
+│   │   └── CartIcon.jsx
+│   │   └── CartIcon.css
 ├── assets/
 │   ├── hp.jpg
 │   ├── hp_.jpg
@@ -42,9 +60,9 @@ src/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/LabrecheFatima/React-course.git
+git clone https://github.com/LabrecheFatima/Laptop-Shop-module-2.git
 
-cd laptop-store
+cd laptop-Shop-module-2
 ```
 
 2. Install dependencies:
