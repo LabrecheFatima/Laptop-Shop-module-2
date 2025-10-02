@@ -35,9 +35,8 @@ src/
 │   └── Footer/
 │   │   └── Footer.jsx
 │   │   └── Footer.css
-│   └── Carts/
-│   │   └── Carts.jsx
-│   │   └── Carts.css
+│   └── Context/
+│   │   └── Context.jsx
 │   └── Discount/
 │   │   └── Discount.jsx
 │   │   └── Discount.css
