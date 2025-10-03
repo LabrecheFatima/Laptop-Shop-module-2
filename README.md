@@ -1,4 +1,4 @@
-# Laptop Store Website- module 2
+# Laptop Store Website- module 3
 
 A modern, responsive laptop e-commerce website built with React. 
 
@@ -39,7 +39,6 @@ src/
 │   │   └── Context.jsx
 │   └── Discount/
 │   │   └── Discount.jsx
-│   │   └── Discount.css
 │   └── CartIcon/
 │   │   └── CartIcon.jsx
 │   │   └── CartIcon.css
@@ -59,9 +58,9 @@ src/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/LabrecheFatima/Laptop-Shop-module-2.git
+git clone https://github.com/LabrecheFatima/Laptop-Shop-module-3.git
 
-cd Laptop-Shop-module-2
+cd Laptop-Shop-module-3
 ```
 
 2. Install dependencies:
